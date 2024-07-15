@@ -1,4 +1,4 @@
 # VRDAG
 
-This is the official PyTorch implementation of [VRDAG: A Variational Recurrent Model for
-Dynamic Attributed Graph Generation]()
+This is the official PyTorch implementation of [Efficient Dynamic Attributed Graph Generation via
+Variational Recurrent Model]()
